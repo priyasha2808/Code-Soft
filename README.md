@@ -35,7 +35,13 @@ CSS styles are used for layout and appearance.
 JavaScript powers the calculator's functionality, handling input, calculations, and result display.
 
 Challenges and Solutions
-During development, one challenge was handling keyboard input and ensuring that calculations were accurate. This was resolved by implementing event listeners and proper validation in the JavaScript code.
+During development, one challenge was handling keyboard input and ensuring that calculations were accurate. This was resolved by implementing event listeners 
+and proper validation in the JavaScript code.
+
+
+
+![calculator Picture](https://github.com/priyasha2808/Code-Soft/assets/144422975/e4d80ce0-8a90-4aab-930e-2cf1c34e1268)
+
 
 Conclusion
 The Interactive Calculator Web Application offers a simple yet effective tool for performing basic arithmetic calculations. As a web development project, it demonstrates the integration of HTML, CSS, and JavaScript to create an interactive user interface.
