@@ -1,5 +1,6 @@
 # Code-Soft
 **Link to my Web Application**
+
 [Calculator](https://priyasha2808.github.io/Code-Soft/)
 
 **Interactive Calculator Web Application**
@@ -7,10 +8,10 @@
 **Introduction**
 The Interactive Calculator Web Application is a web-based calculator that allows users to perform a variety of calculations with ease. Built using HTML, CSS, and JavaScript, this calculator provides a user-friendly interface for basic arithmetic calculations.
 
-Features and Functionality
-Basic Arithmetic: The calculator can perform addition, subtraction, multiplication, and division.
-Clear Input: Users can easily clear their input with a dedicated "C" button.
-User-Friendly Interface: The calculator features large buttons for ease of use and a clear display for results.
+**Features and Functionality**
+**+Basic Arithmetic:** The calculator can perform addition, subtraction, multiplication, and division.
+**+Clear Input:** Users can easily clear their input with a dedicated "C" button.
+**+User-Friendly Interface:** The calculator features large buttons for ease of use and a clear display for results.
 
 Technologies Used
 HTML: Used for structuring the calculator's content.
