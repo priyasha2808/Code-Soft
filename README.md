@@ -11,16 +11,14 @@ The Interactive Calculator Web Application is a web-based calculator that allows
 
 **Features and Functionality**
 
-**+Basic Arithmetic:** The calculator can perform addition, subtraction, multiplication, and division.
-
-**+Clear Input:** Users can easily clear their input with a dedicated "C" button.
-
-**+User-Friendly Interface:** The calculator features large buttons for ease of use and a clear display for results.
+***Basic Arithmetic:** The calculator can perform addition, subtraction, multiplication, and division.  
+***Clear Input:** Users can easily clear their input with a dedicated "C" button.  
+***User-Friendly Interface:** The calculator features large buttons for ease of use and a clear display for results.  
 
 Technologies Used
-HTML: Used for structuring the calculator's content.
-CSS: Employed for styling and layout to enhance the calculator's appearance.
-JavaScript: Provides the calculator's interactivity and functionality, enabling users to input values and see real-time results.
+HTML: Used for structuring the calculator's content.  
+CSS: Employed for styling and layout to enhance the calculator's appearance.  
+JavaScript: Provides the calculator's interactivity and functionality, enabling users to input values and see real-time results.  
 
 User Instructions
 Input numbers using the calculator's buttons or your keyboard.
